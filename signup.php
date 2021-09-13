@@ -99,7 +99,7 @@
 
     <div class="form-group mx-sm-5 mb-6">
       <label for="number">Phone Number:</label>
-      <input type="number" class="form-control" id="number" placeholder="Enter Phone Number" name="number" required>
+      <input type="text" class="form-control" id="number" placeholder="Enter Phone Number" name="number" required>
       <div class="valid-feedback">Valid.</div>
       <div class="invalid-feedback">Please fill out this field.</div>
     </div>
